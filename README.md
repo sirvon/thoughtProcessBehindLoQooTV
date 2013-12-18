@@ -1,2 +1,2 @@
-thinkingProcessBehindLoQooTV
+thoughtProcessBehindLoQooTV
 ============================
